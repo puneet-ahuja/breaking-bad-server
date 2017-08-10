@@ -11,7 +11,7 @@
             "id" : 2,
             "title" : "Season 2",
             "url" : "http://digitalspyuk.cdnds.net/13/35/1600x800/landscape_ustv-breaking-bad-season-2-pictures-18.jpg",
-            "episodes" : 7
+            "episodes" : 8
         },{
             "id" : 3,
             "title" : "Season 3",
@@ -27,6 +27,6 @@
             "id" : 5,
             "title" : "Season 5",
             "url" : "https://coverfiles.alphacoders.com/313/31393.jpg",
-            "episodes" : 7
+            "episodes" : 10
         }]
 }
